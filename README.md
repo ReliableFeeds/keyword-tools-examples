@@ -7,7 +7,7 @@ Copy-paste examples for two pay-per-use keyword tools on the Apify Store:
 | [**Bulk Keyword Search Volume, CPC, Difficulty & Intent**](https://apify.com/reliable-feeds/keyword-search-volume) | Monthly Google search volume, CPC, competition, keyword difficulty, search intent, 3- and 12-month trends, 12 months of history. Up to 10,000 keywords per run, 26 countries. | $0.02 per run + $0.003 per keyword **with** data. Keywords with no data are free. |
 | [**Keyword Suggestions: Google, YouTube, Bing, Amazon Autocomplete**](https://apify.com/reliable-feeds/autocomplete-keyword-ideas) | Real autocomplete suggestions and questions from Google, YouTube, Bing and Amazon, in any country and language. | $0.005 per run + $0.0005 per lookup (one lookup returns up to 10–25 suggestions). |
 
-No Google Ads account, no SEO subscription. You need a free [Apify account](https://apify.com) and its API token (Console → Settings → API & Integrations).
+No Google Ads account, no SEO subscription. Walkthrough: [How to check keyword search volume in bulk without a Google Ads account](https://dev.to/reliablefeeds/how-to-check-keyword-search-volume-in-bulk-without-a-google-ads-account-2jnp). You need a free [Apify account](https://apify.com) and its API token (Console → Settings → API & Integrations).
 
 ## Examples
 
